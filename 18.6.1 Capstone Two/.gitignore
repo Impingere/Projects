@@ -22,6 +22,8 @@ var/
 wheels/
 share/python-wheels/
 ravdess-data/
+CREMA-D/
+TESS/
 *.egg-info/
 .installed.cfg
 *.egg
